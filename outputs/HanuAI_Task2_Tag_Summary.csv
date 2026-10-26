@@ -1,0 +1,25 @@
+Tag Type,Tag,Record Count,Percentage of All Records
+Extracted Issue Tags,Radio,984,98.4
+Extracted Issue Tags,Display/Screen,442,44.2
+Extracted Issue Tags,Software/Firmware,311,31.1
+Extracted Issue Tags,Electrical/Wiring,220,22.0
+Extracted Issue Tags,Audio/Speaker,212,21.2
+Extracted Issue Tags,OnStar/Communication,184,18.4
+Extracted Issue Tags,Module Failure,76,7.6
+Extracted Issue Tags,Navigation,58,5.8
+Symptom Tags,Blank/Black Screen,149,14.9
+Symptom Tags,Inoperative Radio,86,8.6
+Symptom Tags,Connectivity Problem,67,6.7
+Symptom Tags,No Audio,66,6.6
+Symptom Tags,Navigation Problem,49,4.9
+Symptom Tags,Camera Problem,44,4.4
+Cause Tags,Internal Module Failure,111,11.1
+Cause Tags,Cause Not Confirmed,11,1.1
+Cause Tags,Electrical/Wiring Issue,7,0.7
+Cause Tags,Software/Programming Issue,4,0.4
+Cause Tags,Logic Lock,4,0.4
+Repair Action Tags,Radio Replacement,594,59.4
+Repair Action Tags,Programming,331,33.1
+Repair Action Tags,Module Replacement,47,4.7
+Repair Action Tags,Software Update,12,1.2
+Repair Action Tags,Reset/Restart,9,0.9
